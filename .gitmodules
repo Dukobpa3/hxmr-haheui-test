@@ -1,0 +1,9 @@
+[submodule "haxeui"]
+	path = haxeui
+	url = git@github.com:ianharrigan/haxeui.git
+[submodule "Hxmr"]
+	path = Hxmr
+	url = git@github.com:HxJointForces/Hxmr.git
+[submodule "StablexUI"]
+	path = StablexUI
+	url = git@github.com:Dukobpa3/StablexUI.git
