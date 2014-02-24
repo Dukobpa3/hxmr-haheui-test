@@ -7,3 +7,6 @@
 [submodule "StablexUI"]
 	path = StablexUI
 	url = git@github.com:Dukobpa3/StablexUI.git
+[submodule "h3d"]
+	path = h3d
+	url = git@github.com:ncannasse/h3d.git
